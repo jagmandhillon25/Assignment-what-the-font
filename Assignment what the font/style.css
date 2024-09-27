@@ -1,4 +1,4 @@
-
+/* The background image and color of the font is set here*/
 html
 {
     background-image: url("album cover.jpg");
@@ -6,6 +6,7 @@ html
     background-repeat: no-repeat;
     color: white;
 }
+/* The font height and font along with margin is set here for all the elements*/
 h1{
     font-size: 10vh;
     margin-left: 10vh;
